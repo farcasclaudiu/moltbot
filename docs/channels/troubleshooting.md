@@ -1,8 +1,9 @@
 ---
-summary: "Channel-specific troubleshooting shortcuts (Discord/Telegram/WhatsApp)"
+summary: "Channel-specific troubleshooting shortcuts (Discord/Telegram/WhatsApp/iMessage)"
 read_when:
   - A channel connects but messages don’t flow
   - Investigating channel misconfiguration (intents, permissions, privacy mode)
+title: "Channel Troubleshooting"
 ---
 
 # Channel troubleshooting
@@ -21,6 +22,7 @@ openclaw channels status --probe
 - Discord: [/channels/discord#troubleshooting](/channels/discord#troubleshooting)
 - Telegram: [/channels/telegram#troubleshooting](/channels/telegram#troubleshooting)
 - WhatsApp: [/channels/whatsapp#troubleshooting-quick](/channels/whatsapp#troubleshooting-quick)
+- iMessage (legacy): [/channels/imessage#troubleshooting-macos-privacy-and-security-tcc](/channels/imessage#troubleshooting-macos-privacy-and-security-tcc)
 
 ## Telegram quick fixes
 
